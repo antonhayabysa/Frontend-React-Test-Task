@@ -1,0 +1,18 @@
+table {
+  border-collapse: collapse;
+  margin: 20px;
+}
+
+td {
+  border: 1px solid #000;
+  padding: 10px;
+  cursor: pointer;
+}
+.highlighted {
+  background-color: yellow;
+}
+
+.sum, .average {
+  background-color: lightgray;
+  font-weight: bold;
+}
