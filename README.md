@@ -28,3 +28,6 @@ To set up and run the project, follow these steps:
 4. Start the development server: `npm start`
 
 This will start the project on `http://localhost:3000`.
+<img width="433" alt="Снимок экрана 2023-09-28 в 19 45 53" src="https://github.com/antonhayabysa/Frontend-React-Test-Task/assets/83969662/e11ef204-5f7f-48a1-9722-8a<img width="433" alt="Снимок экрана 2023-09-28 в 19 46 02" src="https://github.com/antonhayabysa/Frontend-React-Test-Task/assets/83969662/ca6c2620-883b-4dfe-9815-1396b1038ae2"><img width="433" alt="Снимок экрана 2023-09-28 в 19 46 12" src="https://github.com/antonhayabysa/Frontend-React-Test-Task/assets/83969662/d6d94a83-c3a2-4e25-af5d-6fb57ecdb79e">
+
+762d9810ca">
